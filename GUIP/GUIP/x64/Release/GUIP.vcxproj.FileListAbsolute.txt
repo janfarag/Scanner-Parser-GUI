@@ -1,0 +1,3 @@
+C:\jan\CSE Senior\Compilers\Parser\GUIP\GUIP\x64\Release\GUIP.vcxproj.AssemblyReference.cache
+C:\jan\CSE Senior\Compilers\Parser\GUIP\GUIP\x64\Release\GUIP.MyForm.resources
+C:\jan\CSE Senior\Compilers\Parser\GUIP\GUIP\x64\Release\GUIP.vcxproj.GenerateResource.cache
