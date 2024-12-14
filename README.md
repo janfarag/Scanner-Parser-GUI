@@ -1,5 +1,11 @@
 # Scanner-Parser-GUI
-
+Ahmed Wael Salah Abdel-Aty           2000041
+Omar Ahmed Mohammed Abdel Maksoud    2000389
+Abdallah Yasser Mohammed Abdallah    2001034
+Maria Ashraf Bestawaros              2001144
+Magdy Nabil Wahba Hana               2001964
+Marline Mansour Mansy                2000977
+Jan Farag Hanna                      2001814
 ## Overview
 This project is a GUI-based parser tool for processing Tiny language code. It provides features such as parsing, syntax tree visualization, error handling, and file saving.
 
