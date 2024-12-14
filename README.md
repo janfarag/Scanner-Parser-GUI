@@ -9,8 +9,10 @@ This project is a GUI-based parser tool for processing Tiny language code. It pr
 2. **Bonus Part - Error Handling**:
    - Displays warnings for empty input or invalid Tiny language code.
    - Notifies users of parsing errors such as invalid statements or errors in the parse tree.
-   - ![photo_2024-12-11_16-51-47](https://github.com/user-attachments/assets/ee2d15d8-8094-436a-ab95-ac451e8d3fee)
+     ![photo_2024-12-11_16-51-47](https://github.com/user-attachments/assets/ee2d15d8-8094-436a-ab95-ac451e8d3fee)
      ![photo_2024-12-11_16-51-53](https://github.com/user-attachments/assets/0cef5944-05fd-4f5d-816a-24519b4414f7)
+     ![image](https://github.com/user-attachments/assets/dd8c63ac-a9a4-4f26-bab1-4d0f004bc320)
+
 
 3. **Auto Scanner**: Converts the user input into tokens automatically.![photo_2024-12-11_16-52-33](https://github.com/user-attachments/assets/ad58f194-361c-4968-9d2e-b5aed1d8892c)
 
@@ -31,17 +33,17 @@ This project is a GUI-based parser tool for processing Tiny language code. It pr
 ## How to Run
 1. Install Graphviz.
    ```
-   Parser\GUIP\Graphviz.exe
+   \GUIP\Graphviz.exe
    ```
 2. Navigate to the following path to execute the program:
    ```
-   Parser\GUIP\x64\Release\GUIP.exe
+   \GUIP\GUIP.exe
    ```
 
 ## Saved Outputs
 All generated outputs such as scanned text files and syntax tree PNG files are saved in the following path:
 ```
-GUIP\x64\Release\SavedFiles
+\GUIP\SavedFiles
 ```
 
 ## Additional Notes
