@@ -1,5 +1,0 @@
-﻿  MyForm.cpp
-  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
-  Generating Code...
-  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
-MyForm.obj : fatal error LNK1306: DLL entry point "int __cdecl main(void)" (?main@@$$HYAHXZ) cannot be managed; compile to native
